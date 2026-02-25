@@ -1,5 +1,5 @@
 # Análise da Qualidade do Ar da Avenida da Liberdade, Lisboa
-Este projeto analise a evolução dos poluentes PM2.5 e NO2 na Avenida da Liberdade (Estação PT03082) entre 2017 e 2025. O objetivo consistiu em avaliar o impacto do tráfego urbano na saúde pública e comparar os níveis registados com as diretrizes da Organização Mundial da Sáude (OMS).
+Este projeto analisa a evolução dos poluentes PM2.5 e NO2 na Avenida da Liberdade (Estação PT03082) entre 2017 e 2025. O objetivo consistiu em avaliar o impacto do tráfego urbano na saúde pública e comparar os níveis registados com as diretrizes da Organização Mundial da Sáude (OMS).
 
 Em 2024, Lisboa registou uma média de 19.07 µg/m³, isto corresponde a quase 4 vezes superior ao limite de 5 µg/m³ definido pela OMS. Já em relação ao NO2, ocorreu um controlo positivo, este poluente desceu de 10.95 µg/m³ em 2019 para 9.03 µg/m³ em 2024, mantendo-se atualmente dentro da recomendação da OMS (10 µg/m³).
 É possível ainda visualizar uma redução significativa entre 2020 e 2021, coincidindo com os confinamentos e a redução drástica do tráfego rodoviário.
